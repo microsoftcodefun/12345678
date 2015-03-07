@@ -1,0 +1,23 @@
+﻿body{
+    background: 
+}
+#container {
+    background: #4ee187;
+    border: 5px solid #888;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    }
+#grid, tr, td{
+    width: 10%;
+    height: 10%;
+    border:1px solid #000;
+
+}
+    #grid{
+        border-collapse: collapse;
+width: 100%;
+height: 100%;
+    }
